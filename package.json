@@ -21,6 +21,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@vitejs/plugin-react": "^4.7.0",
     "concurrently": "^9.2.0",
     "nodemon": "^3.1.10",
     "vite": "^5.0.0"
